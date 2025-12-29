@@ -1,0 +1,5 @@
+npm install mongoose express jsonwebtoken bcryptjs dotenv
+npm install -D nodemon
+npm i helmet
+npm i cors
+npm i express-rate-limit
